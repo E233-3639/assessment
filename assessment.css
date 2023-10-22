@@ -1,0 +1,24 @@
+body {
+    color: #ffffff;
+    background-color: #323232;
+    font-family: 'Yu Gothic';
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    font-family: 'Yu Gothic';
+    height: 20px;
+}
+
+button {
+    color: #ffffff;
+    font-family: 'Yu Gothic';
+    font-weight: bold;
+    background-color: #00b2e5;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin-left: 20px;
+}
